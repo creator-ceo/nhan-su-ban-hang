@@ -2,7 +2,7 @@
 
 **Vai Bán hàng trong đội nhân sự A.I** — của [Tô Hải Đoàn](https://www.facebook.com/tohaidoan/).
 
-> **Phiên bản:** `1.1.0` · 2026-09-07 · giấy phép MIT
+> **Phiên bản:** `1.2.0` · 2026-09-07 · giấy phép MIT
 
 ---
 
@@ -31,12 +31,13 @@ claude plugin marketplace add creator-ceo/nhan-su-ban-hang
 claude plugin install ban-hang
 ```
 
-## Lần chạy đầu — dựng hai trang của vai này
+## Lần chạy đầu — dựng trang phễu
 
 | Trang | Là gì |
 |---|---|
 | **`pheu`** | ⚡ Quan trọng nhất. Bốn chặng · cửa vào nào bán gì · phễu giá cao khác phễu chủ lực ở đâu · chặng nào đang đứt |
-| `positioning` | Vì sao chọn bạn chứ không phải người khác, nói bằng một câu |
+
+📌 **`positioning` không phải việc của vai này** — nó là chặng 2 của `/phong-van-dinh-vi` bên nền. Chưa có thì chạy lệnh đó trước: nó hỏi đủ bảy chặng và ra câu định vị tử tế hơn hỏi vội ở đây.
 
 ⚠️ **Chưa có `pheu` thì mọi câu trả lời của vai này đều là đoán.** Nó là trang quyết định mọi tài sản còn lại.
 
