@@ -2,7 +2,7 @@
 
 **Vai Bán hàng trong đội nhân sự A.I** — của [Tô Hải Đoàn](https://www.facebook.com/tohaidoan/).
 
-> **Phiên bản:** `1.0.0` · 2026-09-07 · giấy phép MIT
+> **Phiên bản:** `1.1.0` · 2026-09-07 · giấy phép MIT
 
 ---
 
