@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ban-hang",
+  "displayName": "Nhân sự Bán hàng",
+  "version": "1.0.0",
+  "description": "Vai Bán hàng trong đội nhân sự A.I — hỏi cửa phễu TRƯỚC khi hỏi sản phẩm, soi phễu, chẩn chỗ đứt, và giữ bốn luật cứng về cách nói giá. Nó không tự viết trang bán; nó nói cho bạn biết nên viết cái gì, cho ai, và vì sao.",
+  "author": {
+    "name": "Tô Hải Đoàn"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ban-hang",
+    "pheu",
+    "offer",
+    "chuyen-doi",
+    "second-brain",
+    "tieng-viet"
+  ]
+}
