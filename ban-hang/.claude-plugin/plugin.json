@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "ban-hang",
   "displayName": "Nhân sự Bán hàng",
-  "version": "1.2.0",
-  "description": "Vai Bán hàng trong đội nhân sự A.I — hỏi cửa phễu TRƯỚC khi hỏi sản phẩm, soi phễu, chẩn chỗ đứt, và giữ bốn luật cứng về cách nói giá. Nó không tự viết trang bán; nó nói cho bạn biết nên viết cái gì, cho ai, và vì sao.",
+  "version": "1.2.1",
+  "description": "Vai Bán hàng trong đội nhân sự A.I — hỏi cửa phễu TRƯỚC khi hỏi sản phẩm, soi phễu, chẩn chỗ đứt, và giữ bốn luật cứng về cách nói giá. Dựng offer theo 12 bước của $100M Offers; trang bán và chuỗi email thì nó nói cho bạn biết nên viết cái gì, cho ai, và vì sao.",
   "author": {
     "name": "Tô Hải Đoàn"
   },

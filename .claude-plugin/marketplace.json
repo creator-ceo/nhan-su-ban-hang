@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Vai Bán hàng trong đội nhân sự A.I của Tô Hải Đoàn — cài rời, chạy trên bộ não thứ 2 sẵn có",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "repository": "https://github.com/creator-ceo/nhan-su-ban-hang"
   },
   "plugins": [
@@ -14,7 +14,7 @@
       "name": "ban-hang",
       "source": "./ban-hang",
       "strict": false,
-      "description": "Hỏi cửa phễu trước, vì cùng một người vào bằng cửa khác nhau thì phải bán thứ khác nhau. Soi phễu, chẩn chỗ đứt, giữ bốn luật cứng về cách nói giá. Không tự đẻ tài sản — nó nói cho bạn biết nên làm cái gì và giao cho ai."
+      "description": "Hỏi cửa phễu trước, vì cùng một người vào bằng cửa khác nhau thì phải bán thứ khác nhau. Soi phễu, chẩn chỗ đứt, giữ bốn luật cứng về cách nói giá. Dựng offer theo 12 bước, còn trang bán và chuỗi email thì nó nói cho bạn biết nên làm cái gì và giao cho ai."
     }
   ]
 }
